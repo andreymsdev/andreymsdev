@@ -1,8 +1,7 @@
 #![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&left=true&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=FF3C3C&speed=200)
 
-##Back-end & AI developer in progress | Passionate about Python & SQL | Eager to apply skills and grow in real-world challenges. Dedicated to building smart and scalable solutions 🚀🌟
+Back-end & AI developer in progress | Passionate about Python & SQL | Eager to apply skills and grow in real-world challenges. Dedicated to building smart and scalable solutions 🚀🌟
 
-###
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrey-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrey-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
