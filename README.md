@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&left=true&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=00FF00&speed=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&left=true&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=FF3C3C&speed=20)
 
 Back-end & AI developer in progress | Passionate about Python & SQL | Eager to apply skills and grow in real-world challenges. Dedicated to building smart and scalable solutions 🚀🌟
 
