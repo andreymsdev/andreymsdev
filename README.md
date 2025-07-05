@@ -1,8 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&left=true&left=true&width=600&lines=Hey%2C+eu+me+chamo+Andrey+de+Moraes!&speed=30&color=00FF00)
 
-🎓 **Estudante de Ciência da Computação**, apaixonado por tecnologia e desenvolvimento.  
-💻 Atualmente aprimorando minhas habilidades em **Python** e **SQL**.  
-🎯 Busco oportunidades para aplicar meus conhecimentos em projetos práticos e colaborar em equipes que compartilham a mesma paixão por inovação e tecnologia. 
+Future Back-End & AI Developer Passionate about solving real-world problems through code. Python & SQL explorer with a strong foundation in computer engineering. Seeking my first opportunity to build, learn, and grow. 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrey-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
