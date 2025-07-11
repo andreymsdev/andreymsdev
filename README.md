@@ -14,6 +14,6 @@ Back-end & AI developer in progress | Passionate about Python & SQL | Eager to a
   <a href="https://www.linkedin.com/in/andrey-de-moraes-silva-669ab5361" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andreym.professional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>5
 </div>
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymsdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymsdev&layout=compact&langs_count=7&theme=tokyonight)
 
 
