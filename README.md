@@ -4,7 +4,7 @@
 </p>
 
 <!--  Bio -->
-## 👨‍💻 Back-end & AI Developer in Progress  
+## Back-end & AI Developer in Progress  
 Passionate about **Python & SQL** · Building smart & scalable solutions · Eager to apply skills and grow through real-world challenges 🚀🌟
 
 ---
