@@ -9,9 +9,15 @@ Back-end & AI developer in progress | Passionate about Python & SQL | Eager to a
   <img align="center" alt="Andrey-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Andrey-MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
 <br>
+
 <div>
   <a href="https://www.linkedin.com/in/andrey-de-moraes-silva-669ab5361" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andreym.professional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymsdev&hide=contribs,prs)
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymsdev&hide=contribs,prs&show_icons=true&bg_color=000000&title_color=FF3C3C&text_color=FF3C3C&icon_color=FF3C3C)
+
