@@ -14,5 +14,4 @@ Back-end & AI developer in progress | Passionate about Python & SQL | Eager to a
   <a href="https://www.linkedin.com/in/andrey-de-moraes-silva-669ab5361" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andreym.professional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymsdev&hide=contribs,prs)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymsdev&hide=contribs,prs&show_icons=true&theme=default&cache_seconds=1800&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20GitHub&hide_border=true&token=SEU_TOKEN)
