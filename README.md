@@ -40,7 +40,5 @@ Improving my Python & SQL skills · Always open to learning more · Constantly g
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymsdev&layout=compact&theme=radical&hide_title=true" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymsdev&layout=compact&theme=radical&hide_title=true" />
 
