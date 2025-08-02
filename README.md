@@ -37,3 +37,10 @@ Improving my Python & SQL skills · Always open to learning more · Constantly g
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreymsdev&show_icons=true&theme=radical&hide_title=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymsdev&layout=compact&theme=radical&hide_title=true" />
+</div>
+
