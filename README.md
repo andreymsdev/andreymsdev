@@ -20,7 +20,7 @@ Improving my Python & SQL skills · Always open to learning more · Constantly g
 
 ---
 
-### 🛠️ Tools 
+### 🛠️ Tools and Tech
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="30" src="https://www.docker.com/app/uploads/2024/02/docker-logo-favicon.png" />
   <img align="center" alt="Linux" height="80" width="60" src="https://github.com/user-attachments/assets/2cb0048c-5822-4d6a-b80c-0082abad9d8b" />
