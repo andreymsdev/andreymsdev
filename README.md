@@ -4,8 +4,9 @@
 </p>
 
 <!-- Bio -->
-## Back-end & AI Developer in Progress  
-Improving my Python & SQL skills · Always open to learning more · I enjoy Windows, but the penguin is just too precious 🐧
+Back-end & AI Developer in Progress  
+Improving my Python & SQL skills · Always open to learning more  
+I enjoy Windows, but the penguin is just too precious 🐧
 
 ---
 
