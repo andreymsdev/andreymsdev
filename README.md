@@ -3,10 +3,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=FF3C3C&speed=200" alt="Typing SVG" />
 </p>
 
-<!-- Bio -->
-Back-end & AI Developer in Progress  
-Improving my Python & SQL skills · Always open to learning more  
-I enjoy Windows, but the penguin is just too precious 🐧
+<!-- Bio -->-
+## 👨‍💻 FullStack Developer in Progress
+
+🎯 Improving my skills in **Python** and **SQL**  
+📚 Always open to learning more and exploring new technologies
+
+> “Why always try your best?”  
+> At first, I didn’t know.  
+> But then I realized:  
+> *What’s the meaning of something if we don’t look after it?*  
+> Effort is what gives things value.
+
+🚀 Constantly seeking growth and challenges that push me forward.
+
 
 ---
 
