@@ -3,15 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=FF3C3C&speed=200" alt="Typing SVG" />
 </p>
 
-<!-- Bio -->-
 ## 👨‍💻 FullStack Developer in Progress
 
 🎯 Improving my skills in **Python** and **SQL**  
 📚 Always open to learning more and exploring new technologies
 
 > “Why always try your best?”  
-> At first, I didn’t know.  
-> But then I realized:  
+> At first, I didn’t know the right answer—it felt too complex.  
+> But then I realized it’s actually simple:  
 > *What’s the meaning of something if we don’t look after it?*  
 > Effort is what gives things value.
 
