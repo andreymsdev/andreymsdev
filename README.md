@@ -5,8 +5,7 @@
 
 ## 👨‍💻 FullStack Developer in Progress
 
-🎯 Improving my skills in **Python** and **SQL**
-📚 Always open to learning and exploring new technologies. I'm especially passionate about pentesting and machine learning
+🎯 Improving my skills in **Python** and **SQL**. Always open to learning and exploring new technologies. I'm especially passionate about pentesting and machine learning
 > “Why always try your best?”  
 > At first, I didn’t know the right answer—it felt too complex.  
 > But then I realized it’s actually simple:  
