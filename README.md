@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 Languages 
+### Languages 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tools and Tech
+### Tools and Tech
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="30" src="https://www.docker.com/app/uploads/2024/02/docker-logo-favicon.png" />
   <img align="center" alt="Linux" height="80" width="60" src="https://github.com/user-attachments/assets/2cb0048c-5822-4d6a-b80c-0082abad9d8b" />
