@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome!;Feel+free+to+explore+my+projects.&color=FF3C3C&speed=200" alt="Typing SVG" />
 </p>
 
-## FullStack Developer in Progress
-
 ---
 
 ### 🧠 Languages 
