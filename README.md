@@ -26,8 +26,7 @@ I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora*
 
 # MACHINE LEARNING
 
-* DETECTOR-DE-LIBRAS: [https://github.com/andreymsdev/Detector-de-Libras]()
-
+* DETECTOR-DE-LIBRAS: https://github.com/andreymsdev/Detector-de-Libras
 ![Descrição da imagem](images/getintouch.png)
 
 
