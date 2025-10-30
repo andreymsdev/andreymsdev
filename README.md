@@ -21,6 +21,7 @@ I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora*
 * HTTP-SECURITY-AI:[ https://github.com/andreymsdev/http-security-ai
   ](https://github.com/andreymsdev/http-security-ai)
 * KEYLOGGER-WITH-PYTHON:[ https://github.com/andreymsdev/Keylogger-in-Python-with-GUI](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI)
+* PDF-METADATA:[ https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER)
 
 ---
 
