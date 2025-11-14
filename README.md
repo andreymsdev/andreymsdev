@@ -30,14 +30,14 @@ I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora*
 * DETECTOR-DE-LIBRAS: https://github.com/andreymsdev/Detector-de-Libras
 ![Descrição da imagem](images/getintouch.png)
 
-
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="www.linkedin.com/in/andrey-ms target="_blank">
+  <a href="https://www.linkedin.com/in/andrey-ms" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:andreym.professional@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
 
 ---
