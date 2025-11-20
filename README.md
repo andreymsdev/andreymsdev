@@ -30,7 +30,7 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 # MACHINE LEARNING
 
 * DETECTOR-DE-LIBRAS: https://github.com/andreymsdev/Detector-de-Libras
-* https://github.com/andreymsdev/expressoes-com-machine-learning
+* EXPRESSÕES COM MACHINE LEARNING: https://github.com/andreymsdev/expressoes-com-machine-learning
 ![Descrição da imagem](images/getintouch.png)
 
 
