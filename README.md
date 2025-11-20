@@ -34,20 +34,20 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 ![Descrição da imagem](images/getintouch.png)
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/andrey-ms" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:andreym.professional@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://medium.com/https://Andrey.Web" target="_blank">
+  <a href="https://medium.com/@Andrey.Web" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://tryhackme.com/p/Tux10" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-</div>
-  
+</p>
+
 
 ---
