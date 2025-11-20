@@ -41,7 +41,7 @@ In **Machine Learning**, I’ve been studying and building projects using Python
   <a href="mailto:andreym.professional@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://medium.com/@Andrey.Web" target="_blank">
+  <a href="https://medium.com/@andreymsdev" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://tryhackme.com/p/Tux10" target="_blank">
