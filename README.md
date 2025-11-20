@@ -8,6 +8,8 @@ I’m passionate about technology and have been learning topics such as  **Pytho
 
 I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora** , and now I’m running **Arch Linux** as my main system. For cybersecurity projects, I work with **Kali Linux** in a virtual machine.
 
+In **Machine Learning**, I’ve been studying and building projects using Python.
+
 ---
 
 ![Descrição da imagem](images/prolang.png)
@@ -39,7 +41,13 @@ I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora*
   <a href="mailto:andreym.professional@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://medium.com/https://Andrey.Web" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://tryhackme.com/p/Tux10" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
 </div>
-
+  
 
 ---
