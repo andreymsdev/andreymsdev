@@ -20,26 +20,26 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 
 # CYBERSECURITY
 
-* HTTP-SECURITY-AI:[ https://github.com/andreymsdev/http-security-ai
-  ](https://github.com/andreymsdev/http-security-ai)
-* KEYLOGGER-WITH-PYTHON:[ https://github.com/andreymsdev/Keylogger-in-Python-with-GUI](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI)
-* PDF-METADATA:[ https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER)
+- [HTTP-SECURITY-AI](https://github.com/andreymsdev/http-security-ai) – análise de segurança em requisições HTTP
+- [Keylogger with Python](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI) – keylogger com interface gráfica
+- [PDF Metadata](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER) – remoção de metadados em PDF
 
 ---
 
 # MACHINE LEARNING
 
-* DETECTOR-DE-LIBRAS: https://github.com/andreymsdev/Detector-de-Libras
-* EXPRESSÕES COM MACHINE LEARNING: https://github.com/andreymsdev/expressoes-com-machine-learning
+- [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – reconhecimento de sinais em Libras
+- [Expressões com ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classificação de expressões faciais
 
 ---
 
 
 # AI
-* N8N-PDF-GENERATOR: https://github.com/andreymsdev/n8n-pdf-generator-with-ia
+- [n8n PDF Generator with IA](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automação de geração de PDFs com IA
+
+---
 
 ![Descrição da imagem](images/getintouch.png)
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-ms" target="_blank">
