@@ -18,24 +18,24 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 
 ![Descrição da imagem](images/highlighted.png)
 
-# CYBERSECURITY
+# Cybersecurity
 
-- [HTTP-SECURITY-AI](https://github.com/andreymsdev/http-security-ai) – análise de segurança em requisições HTTP
-- [Keylogger with Python](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI) – keylogger com interface gráfica
-- [PDF Metadata](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER) – remoção de metadados em PDF
-
----
-
-# MACHINE LEARNING
-
-- [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – reconhecimento de sinais em Libras
-- [Expressões com ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classificação de expressões faciais
+- [HTTP-SECURITY-AI](https://github.com/andreymsdev/http-security-ai) – security analysis of HTTP requests using AI  
+- [Keylogger with Python](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI) – keylogger with graphical interface  
+- [PDF Metadata](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER) – verification and removal of PDF metadata  
 
 ---
 
+# Machine Learning
+
+- [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – recognition of Brazilian Sign Language (Libras) using computer vision  
+- [Facial Expressions with ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classification of facial expressions  
+
+---
 
 # AI
-- [n8n PDF Generator with IA](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automação de geração de PDFs com IA
+
+- [n8n PDF Generator with AI](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automated PDF generation with AI using n8n
 
 ---
 
