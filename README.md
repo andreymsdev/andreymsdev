@@ -31,6 +31,13 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 
 * DETECTOR-DE-LIBRAS: https://github.com/andreymsdev/Detector-de-Libras
 * EXPRESSÕES COM MACHINE LEARNING: https://github.com/andreymsdev/expressoes-com-machine-learning
+
+---
+
+
+# AI
+* N8N-PDF-GENERATOR: https://github.com/andreymsdev/n8n-pdf-generator-with-ia
+
 ![Descrição da imagem](images/getintouch.png)
 
 
