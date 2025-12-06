@@ -2,13 +2,15 @@
 
 ---
 
-Hello! I'm a **Computer Engineering Student** at **UNIVESP** , São Paulo, Brazil.
+Hello! I'm a **Computer Engineering Student** at **UNIVESP**, São Paulo, Brazil.
 
-I’m passionate about technology and have been learning topics such as  **Python** ,  **Ethical Hacking** ,  **Cybersecurity & Pentesting** , and **Machine Learning.**
+I’m passionate about technology and currently exploring **Python**, **Ethical Hacking**, **Cybersecurity & Pentesting**, **Machine Learning**, and **AI & Automation**.
 
-I use Linux every day. I started with  **Linux Mint** , then moved to  **Fedora** , and now I’m running **Arch Linux** as my main system. For cybersecurity projects, I work with **Kali Linux** in a virtual machine.
+I use **Linux** every day. I started with **Linux Mint**, moved to **Fedora**, and now run **Arch Linux** as my main system. For cybersecurity projects, I work with **Kali Linux** in a virtual machine.
 
-In **Machine Learning**, I’ve been studying and building projects using Python.
+In **Machine Learning**, I’ve been studying and building projects using **Python**.
+
+For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create smart workflows that connect APIs, process emails, generate PDFs, and automate real tasks. It’s a field I enjoy, and I’m always learning and improving.
 
 ---
 
