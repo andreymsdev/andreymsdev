@@ -36,6 +36,7 @@ In **Machine Learning**, I’ve been studying and building projects using Python
 # AI
 
 - [n8n PDF Generator with AI](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automated PDF generation with AI using n8n
+- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – automated PDF generation with AI using n8n
 
 ---
 
