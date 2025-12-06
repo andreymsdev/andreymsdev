@@ -38,8 +38,7 @@ For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create
 # AI
 
 - [n8n PDF Generator with AI](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automated PDF generation with AI using n8n
-- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – automated PDF generation with AI using n8n
-
+- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – An n8n workflow that receives emails through Gmail, processes the content, forwards messages to multiple recipients, and generates persistent .txt logs on disk.
 ---
 
 ![Descrição da imagem](images/getintouch.png)
