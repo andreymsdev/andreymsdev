@@ -32,7 +32,7 @@ For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create
 
 - [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – recognition of Brazilian Sign Language (Libras) using computer vision  
 - [Facial Expressions with ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classification of facial expressions  
-
+- [Volume Control](https://github.com/andreymsdev/volume-control-CV)
 ---
 
 # AI & Automation
