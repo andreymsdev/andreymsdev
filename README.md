@@ -32,13 +32,13 @@ For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create
 
 - [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – recognition of Brazilian Sign Language (Libras) using computer vision  
 - [Facial Expressions with ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classification of facial expressions  
-- [Volume Control](https://github.com/andreymsdev/volume-control-CV) - Volume Control using computer vision
+- [Volume Control](https://github.com/andreymsdev/volume-control-CV) - volume Control using computer vision
 ---
 
 # AI & Automation
 
 - [n8n PDF Generator with AI](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automated PDF generation with AI using n8n
-- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – An n8n workflow that receives emails through Gmail, processes the content, forwards messages to multiple recipients, and generates persistent .txt logs on disk.
+- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – an n8n workflow that receives emails through Gmail, processes the content, forwards messages to multiple recipients, and generates persistent .txt logs on disk
 ---
 
 ![Descrição da imagem](images/getintouch.png)
