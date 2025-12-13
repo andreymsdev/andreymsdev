@@ -58,6 +58,5 @@ For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymsdev&layout=compact)
 
 ---
