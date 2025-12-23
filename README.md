@@ -37,7 +37,7 @@ Computer Engineering Student @ UNIVESP<br>
 
 ### Machine Learning & Automation
 - **[Libras Detector](https://github.com/andreymsdev/Detector-de-Libras)**: Computer Vision for Brazilian Sign Language recognition.
-- **[n8n Email Processor](https://github.com/andreymsdev/n8n-email-processor)**: Intelligent workflow for automated email handling.
+- **[N8n Email Processor](https://github.com/andreymsdev/n8n-email-processor)**: Intelligent workflow for automated email handling.
 
 ---
 
