@@ -1,47 +1,48 @@
-![Dev](./images/dev.png)
+<h1 align="center">Andrey de Moraes</h1>
+<p align="center">
+Computer Engineering Student @ UNIVESP<br>
+| Automation | Data Analytics | Machine Learning | Cybersecurity | 
+</p>
 
 ---
 
-Hello! I'm a **Computer Engineering Student** at **UNIVESP**, São Paulo, Brazil.
+## About Me
+- Computer Engineering student at UNIVESP (São Paulo, Brazil)
+- Focus on Cybersecurity, Automation and Data Analytics
+- Hands-on experience with Linux, scripting and CTFs
+- Interested in AI-driven automation and security analytics
 
-I’m passionate about technology and currently exploring **Python**, **Ethical Hacking**, **Cybersecurity & Pentesting**, **Machine Learning**, and **AI & Automation**.
+---
+## Tech Stack & Skills
 
-I use **Linux** every day. I started with **Linux Mint**, moved to **Fedora**, and now run **Arch Linux** as my main system. For cybersecurity projects, I work with **Kali Linux** in a virtual machine.
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-In **Machine Learning**, I’ve been studying and building projects using **Python**.
+**Security:**  
+![Nmap](https://img.shields.io/badge/Nmap-004B8D?style=for-the-badge) ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge) ![John The Ripper](https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge) ![Hydra](https://img.shields.io/badge/Hydra-0A0A0A?style=for-the-badge) ![HTTP Security](https://img.shields.io/badge/HTTP_Security_Headers-CC0000?style=for-the-badge)
 
-For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create smart workflows that connect APIs, process emails, generate PDFs, and automate real tasks. It’s a field I enjoy, and I’m always learning and improving.
+**AI & Automation:**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+
+**Systems & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-![Descrição da imagem](images/prolang.png)
+## Featured Projects
+
+### Cybersecurity & AI
+- **[HTTP-security-ai](https://github.com/andreymsdev/http-security-ai)**: AI-driven analysis of HTTP request security.
+- **[Keylogger](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI)**: Python-based security research tool.
+
+### Machine Learning & Automation
+- **[Libras Detector](https://github.com/andreymsdev/Detector-de-Libras)**: Computer Vision for Brazilian Sign Language recognition.
+- **[n8n Email Processor](https://github.com/andreymsdev/n8n-email-processor)**: Intelligent workflow for automated email handling.
 
 ---
 
-![Descrição da imagem](images/highlighted.png)
 
-# Cybersecurity
-
-- [HTTP-SECURITY-AI](https://github.com/andreymsdev/http-security-ai) – security analysis of HTTP requests using AI  
-- [Keylogger with Python](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI) – keylogger with graphical interface  
-- [PDF Metadata](https://github.com/andreymsdev/LOOKING-FOR-AND-DELETING-PDF-METADATA-READER) – verification and removal of PDF metadata  
-
----
-
-# Machine Learning
-
-- [Detector de Libras](https://github.com/andreymsdev/Detector-de-Libras) – recognition of Brazilian Sign Language (Libras) using computer vision  
-- [Facial Expressions with ML](https://github.com/andreymsdev/expressoes-com-machine-learning) – classification of facial expressions  
-- [Volume Control](https://github.com/andreymsdev/volume-control-CV) - volume Control using computer vision
----
-
-# AI & Automation
-
-- [n8n PDF Generator with AI](https://github.com/andreymsdev/n8n-pdf-generator-with-ia) – automated PDF generation with AI using n8n
-- [n8n email processor](https://github.com/andreymsdev/n8n-email-processor) – an n8n workflow that receives emails through Gmail, processes the content, forwards messages to multiple recipients, and generates persistent .txt logs on disk
----
-
-![Descrição da imagem](images/getintouch.png)
+![get in touch](images/getintouch.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-ms" target="_blank">
@@ -57,6 +58,3 @@ For **AI & Automation**, I work with **n8n**, **Python**, and **LLMs** to create
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
-
-
----
