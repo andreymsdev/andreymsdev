@@ -57,4 +57,7 @@ Computer Engineering Student @ UNIVESP<br>
   <a href="https://tryhackme.com/p/Tux10" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
+    <a href="https://stackoverflow.com/users/31985849/andrey" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack_Overflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
