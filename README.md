@@ -31,6 +31,9 @@ Computer Engineering Student @ UNIVESP<br>
 
 ## Featured Projects
 
+### Backend 
+- **[Net Tracer](https://github.com/andreymsdev/NetTracer-Network-Diagnostic-Tool)**: Efficient network diagnostic tool built with Node.js and JavaScript.
+
 ### Cybersecurity & AI
 - **[HTTP-security-ai](https://github.com/andreymsdev/http-security-ai)**: AI-driven analysis of HTTP request security.
 - **[Keylogger](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI)**: Python-based security research tool.
