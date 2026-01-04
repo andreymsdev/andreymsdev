@@ -1,14 +1,14 @@
 <h1 align="center">Andrey de Moraes</h1>
 <p align="center">
 Computer Engineering Student @ UNIVESP<br>
-| Automation | Data Analytics | Machine Learning | Cybersecurity | 
+| Backend | Automation | Cybersecurity | Machine Learning | Data Analytics |
 </p>
 
 ---
 
 ## About Me
 - Computer Engineering student at UNIVESP (São Paulo, Brazil)
-- Focus on Cybersecurity, Automation and Data Analytics
+- Focus on Backend, Cybersecurity, Automation and Data Analytics
 - Hands-on experience with Linux, scripting and CTFs
 - Interested in AI-driven automation and security analytics
 
@@ -16,7 +16,7 @@ Computer Engineering Student @ UNIVESP<br>
 ## Tech Stack & Skills
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Security:**  
 ![Nmap](https://img.shields.io/badge/Nmap-004B8D?style=for-the-badge) ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge) ![John The Ripper](https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge) ![Hydra](https://img.shields.io/badge/Hydra-0A0A0A?style=for-the-badge) ![HTTP Security](https://img.shields.io/badge/HTTP_Security_Headers-CC0000?style=for-the-badge)
