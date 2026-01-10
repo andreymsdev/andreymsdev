@@ -63,7 +63,4 @@ Computer Engineering Student @ UNIVESP<br>
     <a href="https://devpost.com/andreymsdev" target="_blank">
   <img src="https://img.shields.io/badge/-Devpost-%23003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
 </a>
-    <a href="https://stackoverflow.com/users/31985849/andrey" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack_Overflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
 </p>
