@@ -1,7 +1,6 @@
 <h1 align="center">Andrey de Moraes</h1>
 <p align="center">
 Computer Engineering Student @ UNIVESP<br>
-| Backend | Cybersecurity | Machine Learning | Automation
 </p>
 
 ---
