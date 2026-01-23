@@ -29,22 +29,6 @@ Computer Engineering Student @ UNIVESP<br>
 
 ---
 
-## Featured Projects
-
-### Backend 
-- **[Net Tracer](https://github.com/andreymsdev/NetTracer-Network-Diagnostic-Tool)**: Efficient network diagnostic tool built with Node.js and JavaScript.
-
-### Cybersecurity & AI
-- **[HTTP-security-ai](https://github.com/andreymsdev/http-security-ai)**: AI-driven analysis of HTTP request security.
-- **[Keylogger](https://github.com/andreymsdev/Keylogger-in-Python-with-GUI)**: Python-based security research tool.
-
-### Machine Learning & Automation
-- **[Libras Detector](https://github.com/andreymsdev/Detector-de-Libras)**: Computer Vision for Brazilian Sign Language recognition.
-- **[N8n Email Processor](https://github.com/andreymsdev/n8n-email-processor)**: Intelligent workflow for automated email handling.
-
----
-
-
 ![get in touch](images/getintouch.png)
 
 <p align="center">
