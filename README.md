@@ -12,7 +12,7 @@ Computer Engineering Student @ UNIVESP<br>
 - Sharing my academic journey and notes: [academic-journey-comp-eng](https://github.com/andreymsdev/academic-journey-comp-eng)
 - Active Hackathon participant, collaborative problem-solving
 - Interested in AI-driven automation and security analytics
-- ![?](https://music.youtube.com/watch?v=s2ut8s2hdSc&si=XhvOxFA6loCEgQJM)
+- [?](https://youtu.be/y0vVeMsCMWI?si=LOywkbRKBj4nARps)
 
 ---
 ## Tech Stack & Skills
