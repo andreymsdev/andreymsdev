@@ -1,6 +1,7 @@
 <h1 align="center">Andrey de Moraes</h1>
 <p align="center">
-Computer Engineering Student @ UNIVESP | Infrastructure Intern @ Agility <br>
+Computer Engineering Student @ UNIVESP <br>
+  Infrastructure Intern @ Agility
 </p>
 
 ---
