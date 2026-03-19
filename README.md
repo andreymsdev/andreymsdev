@@ -7,7 +7,7 @@ Computer Engineering Student @ UNIVESP <br>
 ---
 
 ## About Me
-- Computer Engineering student at UNIVESP (São Paulo, Brazil 🇧🇷)
+- Computer Engineering student at UNIVESP (São Paulo, Brazil)
 - Focus on Backend, Cybersecurity, AI-driven automation and security analytics
 - Hands-on experience with Linux, scripting and CTFs everything documented in [Cyber-Labs-Writeups](https://github.com/andreymsdev/Cyber-Labs-Writeups)
 - Sharing my academic journey and notes: [academic-journey-comp-eng](https://github.com/andreymsdev/academic-journey-comp-eng)
