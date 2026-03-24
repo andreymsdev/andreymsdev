@@ -12,7 +12,7 @@ Computer Engineering Student @ UNIVESP <br>
 - Hands-on experience with Linux, scripting and CTFs everything documented in [Cyber-Labs-Writeups](https://github.com/andreymsdev/Cyber-Labs-Writeups)
 - Sharing my academic journey and notes: [academic-journey-comp-eng](https://github.com/andreymsdev/academic-journey-comp-eng)
 - Active Hackathon participant, collaborative problem-solving
-- [?](https://youtu.be/kxpB-az8zuM?si=ucHuz-25tpZAMNQf)
+- [?](https://music.youtube.com/watch?v=SNsO3-VYuZo&si=A64e7RCnUIGVJrn5)
 
 ---
 ## Tech Stack & Skills
