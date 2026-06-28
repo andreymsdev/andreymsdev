@@ -9,6 +9,7 @@ Computer Engineering Student @ UNIVESP <br>
 ## About Me
 - Computer Engineering student at UNIVESP (São Paulo, Brazil)
 - Focus on Enterprise Infrastructure, Network Security, Automation, and Security Operations (SecOps).
+- Focusing on learning more about enterprise solutions from companies like Palo Alto, CyberArk, F5, and Infoblox.
 - Hands-on experience with Linux, scripting and CTFs everything documented in [Cyber-Labs-Writeups](https://github.com/andreymsdev/Cyber-Labs-Writeups)
 - Sharing my academic journey and notes: [academic-journey-comp-eng](https://github.com/andreymsdev/academic-journey-comp-eng)
 - Active Hackathon participant, collaborative problem-solving
