@@ -1,13 +1,13 @@
 <h1 align="center">Andrey de Moraes</h1>
 <p align="center">
-Computer Engineering Student @ UNIVESP <br>
+Computer Engineering @ UNIVESP <br>
   Infrastructure Intern @ Agility
 </p>
 
 ---
 
 ## About Me
-- Computer Engineering student at UNIVESP (São Paulo, Brazil)
+- Computer Engineering at UNIVESP (São Paulo, Brazil)
 - Focus on Enterprise Infrastructure, Network Security, Automation, and Security Operations (SecOps).
 - Focusing on learning more about enterprise solutions from companies like Palo Alto, CyberArk, F5, and Infoblox.
 - Hands-on experience with Linux, scripting and CTFs everything documented in [Cyber-Labs-Writeups](https://github.com/andreymsdev/Cyber-Labs-Writeups)
